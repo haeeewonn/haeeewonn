@@ -1,15 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&text=Haewon%20Github&fontAlign=60)
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Haewon%20Github!&fontSize=90" />	
+</div>
 
 <div align="center">    
+  <h3>💌Introdution💌</h3>
+  <p>안녕하세요!</p>
   <br/>
-<br/>
-<br/>
-####    :love_letter: Introduction
-안녕하세요! 
-<br/>
-프론트와 백엔드 모두 좋아하는 열정 가득한 신입 개발자 임해원입니다!
-<br/>
-<br/>
+  <p>프론트와 백엔드 모두 좋아하는 열정 가득한 신입 개발자 임해원입니다!</p>
+</div>
+<div align="center"> 
+
 ####   :hammer: Skill
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
