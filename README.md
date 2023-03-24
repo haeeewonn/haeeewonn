@@ -28,5 +28,5 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haeeewonn&layout=compact">
 	<img src="https://github-readme-stats.vercel.app/api?username=haeeewonn&show_icons=true">
 
-	![Haewon's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=haeeewonn)  
+	![haeeewonn's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=haeeewonn)  
 </div>
