@@ -1,7 +1,7 @@
-<div align="center"> 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&text=Haewon%20Github&fontAlign=60)
 
-####  :love_letter: ntroduction
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&text=Haewon%20Github&fontAlign=60)
+<div align="center"> 
+####  :love_letter: Introduction
   
   
 <!--
