@@ -5,6 +5,10 @@
 안녕하세요! 
 <br/>
 프론트와 백엔드 모두 좋아하는 열정 가득한 신입 개발자 임해원입니다!
+<br/>
+<br/>
+####   :hammer: Skill
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   
   
 <!--
