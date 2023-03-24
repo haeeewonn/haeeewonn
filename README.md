@@ -2,7 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&text=Haewon%20Github&fontAlign=60)
   
 ####   :love_letter: Introduction
-안녕하세요! 프론트와 백엔드 모두 좋아하는 열정있는 신입개발자 임해원입니다!
+안녕하세요! 
+프론트와 백엔드 모두 좋아하는 열정 가득한 신입 개발자 임해원입니다!
   
   
 <!--
