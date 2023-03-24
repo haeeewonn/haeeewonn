@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&text=Hi!%20Welcome%20to%20haewon%20Github!&fontColor=white)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <!--
 **haeeewonn/haeeewonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
